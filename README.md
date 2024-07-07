@@ -1,5 +1,5 @@
 # Hi there, I'm Hsu Lei Hnin! 👋
-I'm a web developer with a passion for backend field.
+I'm a web developer with a passion for backend development field.
 
 ## 🚀 About Me
 - 🔭 I’m currently working in a banking industry using java with springboot frameworrk.
